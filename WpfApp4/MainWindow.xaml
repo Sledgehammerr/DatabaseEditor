@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WpfApp4"
         xmlns:Model="clr-namespace:WpfApp4.Model" x:Class="WpfApp4.MainWindow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded" Closing="Window_Closing">
+        Title="Made by Valeriy Rey" Height="450" Width="800" Loaded="Window_Loaded" Closing="Window_Closing">
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
